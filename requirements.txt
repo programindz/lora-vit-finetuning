@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers
+evaluate
+peft
+datasets
+gradio
+accelerate
+json
