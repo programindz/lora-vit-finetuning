@@ -1,0 +1,5 @@
+# Ignore cache files
+__pycache__/
+
+# Ignore flagged directory
+flagged/
